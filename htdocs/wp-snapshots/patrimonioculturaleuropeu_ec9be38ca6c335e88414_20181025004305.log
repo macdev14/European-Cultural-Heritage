@@ -1,0 +1,51 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: October 25, 2018 12:46 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.52
+WORDPRESS:	4.9.8
+PHP INFO:	7.0.19 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: [20] not allowed 
+PHP MAX MEMORY: Unabled to set php memory_limit 
+MEMORY STACK: 2MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: patrimonioculturaleuropeu_ec9be38ca6c335e88414_20181025004305_database.sql 
+SQL FILE SIZE: 1.51MB (1581521) 
+SQL FILE TIME: 2018-10-25 00:46:35 
+SQL RUNTIME: 1.74 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home/vol1_2/ihostfull.com/uoolo_22712485/patrimoniocultural.ml/htdocs 
+ARCHIVE FILE: patrimonioculturaleuropeu_ec9be38ca6c335e88414_20181025004305_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	64.92MB 
+STATS:	Dirs 371 | Files 2,613 
+SQL ADDED: patrimonioculturaleuropeu_ec9be38ca6c335e88414_20181025004305_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2984
+    [filename] => /home/vol1_2/ihostfull.com/uoolo_22712485/patrimoniocultural.ml/htdocs/wp-snapshots/tmp/patrimonioculturaleuropeu_ec9be38ca6c335e88414_20181025004305_archive.zip
+    [comment] => 
+)
+ 
+
